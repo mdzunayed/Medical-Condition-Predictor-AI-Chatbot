@@ -19,7 +19,7 @@ An AI-powered health assessment chatbot that engages in natural conversations to
 ---
 
 <p align="center">
-  <img src="./assets/logo.png" width="700" alt="">
+  <img src="chatbot.png" width="700" alt="">
 </p>
 
 ---
