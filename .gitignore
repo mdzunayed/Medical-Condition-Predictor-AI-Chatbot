@@ -1,0 +1,35 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.codex
+server.log
+*.log
+.sessions/
+
+# Large Models/Weights
+llm/
+# If your .pkl file is >10MB, uncomment the line below:
+# models/*.pkl
+
+# Sensitive Data
+.env
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+.package-lock.json
+
+# Tooling/OS
+.DS_Store
+.vscode/
+.idea/
+=0.2.90
+# Models
+models/GradientBoosting_model.pkl
+# Or use a wildcard to ignore all pickle files in that folder:
+# models/*.pkl
