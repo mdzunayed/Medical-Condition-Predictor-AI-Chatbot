@@ -192,6 +192,6 @@ docker run -p 8000:8000 -p 5173:5173 medihelp
 
 ## Author
 
-**Zunayed** — [GitHub](https://github.com/zunayed) | [Email](mailto:zunayed02@gmail.com)
+**Zunayed** — [GitHub](https://github.com/mdzunayed) | [Email](mailto:zunayed02@gmail.com)
 
 ---
