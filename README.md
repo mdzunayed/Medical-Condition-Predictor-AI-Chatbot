@@ -186,18 +186,8 @@ docker run -p 8000:8000 -p 5173:5173 medihelp
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## Author
 
-**Zunayed** — [GitHub](https://github.com/zunayed) | [Email](mailto:zunayed140@gmail.com)
+**Zunayed** — [GitHub](https://github.com/zunayed) | [Email](mailto:zunayed02@gmail.com)
 
 ---
-
-📚 **Documentation:**
-- [System Architecture](SYSTEM_ARCHITECTURE.md)
-- [Model Architecture & Methodology](MODEL_ARCHITECTURE_AND_METHODOLOGY.md)
