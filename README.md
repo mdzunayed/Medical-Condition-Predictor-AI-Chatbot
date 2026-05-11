@@ -22,8 +22,6 @@ An AI-powered health assessment chatbot that engages in natural conversations to
 
 **Backend:**
 - FastAPI (REST API)
-- Llama 3.1 8B GGUF (local LLM)
-- Scikit-learn (Gradient Boosting)
 
 **Frontend:**
 - React 18 + Vite
